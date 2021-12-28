@@ -56,7 +56,18 @@ experiences:
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor.
+skills:
+    title: Skills &amp; Proficiency
 
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: Java
+        level: 98%
+
+      - name: C & C++
+        level: 85%
 - award:
     time: 2016
     title : Summa Cum Laude honor at Kangwon National University
@@ -128,18 +139,7 @@ projects:
         tagline: "2018.03 ~ 2019.02  XAI(eXplainble AI) 기반 스마트 에너지 플랫폼 기술 개발"
 
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
-        level: 98%
-
-      - name: Java
-        level: 98%
-
-      - name: C & C++
-        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
