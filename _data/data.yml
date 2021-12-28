@@ -27,7 +27,7 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Professional
+        level: 
 
       - idiom: Korean
         level: Native
@@ -35,13 +35,6 @@ sidebar:
     interests:
       - item: Cooking
         link:
-
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-
       
 education:
     - degree: Ph.D. in Applied Artificial Intelligence
@@ -49,19 +42,27 @@ education:
       time: 2022 - Present
       details: |
       
-    - degree: MSc in Computer Science
+    - degree: MS in Computer Science
       university: Yonsei University
       time: 2017 - 2019
       details: |
         
-    - degree: BSc in Computer and Communications Engineering
+    - degree: BS in Computer and Communications Engineering
       university: Kangwon National University
       time: 2011 - 2016
       details: |
         Department of Computer and Communications Engineering
 
+experiences:
+    - role: Associate Researcher Engineer
+      time: 2019 - Present
+      company: KT R&D Center, Infra Laboratory, Seoul
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor.
+
 publications:
-    title: International Journals
+    title: International Journals & International Conference
     papers:
       - title: Optimizing CNN-LSTM Neural Networks with PSO for Anomalous Query Access Control
         link: "#"
@@ -78,8 +79,6 @@ publications:
         authors: T.-Y. Kim and S.-B. Cho
         conference: "Expert Systems withApplications, vol. 106, pp. 66-76, 2018. (SCIE)(IF:6.954)"
 
-    title: International Conference
-    papers:
       - title: Particle Swarm Optimization-based CNN-LSTM Networks for Anomalous Query Access Control in RBAC-Administered Model
         link: "#"
         authors: T.-Y. Kim and S.-B. Cho
@@ -95,21 +94,6 @@ publications:
         authors: T.-Y. Kim and S.-B. Cho
         conference: "The 19th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL), 2018."
         
-      
-experiences:
-    - role: Associate Researcher Engineer
-      time: 2019 - Present
-      company: KT R&D Center, Infra Laboratory, Seoul
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor.
-        
-    - role: Intern Software Engineer
-      time: 2016 - 2016
-      company: THIRA-UTECH, Seoul
-      details: |
-        Describe your role here lorem ipsum dolor sit amet
-
 projects:
     title: Projects
     intro: >
@@ -143,17 +127,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: R & Python
+      - name: Python
         level: 98%
 
-      - name: C++
+      - name: Java
         level: 98%
 
-      - name: Perl & JAVA
+      - name: C & C++
         level: 85%
-
-      - name: Linux & C 
-        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
