@@ -12,16 +12,14 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: pinna90@naver.com
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: pinna90
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,21 +27,12 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
       - item: Cooking
         link:
 
