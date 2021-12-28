@@ -53,9 +53,7 @@ experiences:
     - role: Associate Researcher Engineer
       time: 2019 - Present
       company: KT R&D Center, Infra Laboratory, Seoul
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor.
+      details: 
         
 skills:
     title: Skills &amp; Proficiency
