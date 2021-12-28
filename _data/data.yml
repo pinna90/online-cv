@@ -62,7 +62,7 @@ experiences:
         adipiscing elit. Aenean commodo ligula eget dolor.
 
 publications:
-    title: International Journals & International Conference
+    title: International Journals
     papers:
       - title: Optimizing CNN-LSTM Neural Networks with PSO for Anomalous Query Access Control
         link: "#"
@@ -78,7 +78,9 @@ publications:
         link: "#"
         authors: T.-Y. Kim and S.-B. Cho
         conference: "Expert Systems withApplications, vol. 106, pp. 66-76, 2018. (SCIE)(IF:6.954)"
-
+    
+    title: International Conference
+    papers:
       - title: Particle Swarm Optimization-based CNN-LSTM Networks for Anomalous Query Access Control in RBAC-Administered Model
         link: "#"
         authors: T.-Y. Kim and S.-B. Cho
