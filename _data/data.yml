@@ -99,7 +99,7 @@ publications2:
       - title: Particle swarm optimization-based CNN-LSTM networks for forecasting energy consumption
         link: "#"
         authors: T.-Y. Kim and S.-B. Cho
-        conference: "” IEEE Congress on Evolutionary Computation, 2019. In Press"
+        conference: "IEEE Congress on Evolutionary Computation, 2019. In Press"
 
       - title: Predicting the Household Power Consumption using CNN-LSTM Hybrid Networks
         link: "#"
