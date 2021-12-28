@@ -114,29 +114,30 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: IITP
+        link: 
+        tagline: "2017.09 ~ 2018.08 글로벌 핀테크 벤처 기업 및 창의적 인재 육성을 위한 스마트 핀테크 플랫폼 기술 개발"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: ETRI
+        link: 
+        tagline: "2017.09 ~ 2017.11 사용자 경험상황 모델링 기법 연구"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: ETRI
+        link: 
+        tagline: "2017.09 ~ 2017.11 실시간 영상 DB 분석기술 개발"
+        
+      - title: ADD
+        link: 
+        tagline: "2018.01 ~ 2019.07 실시간 DB 침입탐지시스템 개발 연구"    
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: ETRI
+        link: 
+        tagline: "2018.04 ~ 2018.11 사용자 경험상황 시맨틱 네트워크 기반 패턴 분석 기술 연구"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: KEPCO
+        link: 
+        tagline: "2018.03 ~ 2019.02  XAI(eXplainble AI) 기반 스마트 에너지 플랫폼 기술 개발"
 
 
 skills:
@@ -146,20 +147,14 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: C++
         level: 98%
 
-      - name: Angular
+      - name: JAVA
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
