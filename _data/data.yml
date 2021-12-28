@@ -76,12 +76,12 @@ publications:
       - title: Optimizing CNN-LSTM Neural Networks with PSO for Anomalous Query Access Control
         link: "#"
         authors: T.-Y. Kim and S.-B. Cho
-        conference: "Neurocomputing, 2020. (accepted)(SCIE)(IF:5.719)"
+        conference: "Neurocomputing, vol. 456, pp. 666-677, 2021. (SCIE)(IF:5.719)"
 
       - title: Predicting residential energy consumption using CNN-LSTM neural networks
         link: "#"
         authors: T.-Y. Kim and S.-B. Cho
-        conference: "Energy, 2019. vol 182, pp. 72-81. (SCI)(IF:7.147)"
+        conference: "Energy, vol. 182, pp. 72-81, 2019. (SCI)(IF:7.147)"
 
       - title: Web traffic anomaly detection using C-LSTM neural networks
         link: "#"
