@@ -143,16 +143,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: R & Python
         level: 98%
 
       - name: C++
         level: 98%
 
-      - name: JAVA
-        level: 98%
+      - name: Perl & JAVA
+        level: 85%
 
-      - name: HTML5 & CSS
+      - name: Linux & C 
         level: 95%
 
 footer: >
