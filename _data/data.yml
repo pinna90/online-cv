@@ -78,9 +78,7 @@ publications:
         authors: T.-Y. Kim and S.-B. Cho
         conference: "Expert Systems withApplications, vol. 106, pp. 66-76, 2018. (SCIE)(IF:6.954)"
 
-publications:
     title: International Conference
-    
     papers:
       - title: Particle Swarm Optimization-based CNN-LSTM Networks for Anomalous Query Access Control in RBAC-Administered Model
         link: "#"
@@ -97,6 +95,7 @@ publications:
         authors: T.-Y. Kim and S.-B. Cho
         conference: "The 19th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL), 2018."
         
+      
 experiences:
     - role: Associate Researcher Engineer
       time: 2019 - Present
