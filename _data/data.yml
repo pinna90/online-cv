@@ -61,6 +61,13 @@ experiences:
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor.
 
+- award:
+    time: 2016
+    title : Summa Cum Laude honor at Kangwon National University
+- award:
+    time: 2017
+    title : Good Paper Award from SAS: T.-Y. Kim, and S.-B. Cho, Korea Business Intelligence Data Mining Conference, 2017
+
 publications:
     title: International Journals
     papers:
