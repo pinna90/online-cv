@@ -61,10 +61,7 @@ education:
         Department of Computer and Communications Engineering
 
 publications:
-    title: Publications
-    intro: |
-      International Journals
-      
+    title: International Journals
     papers:
       - title: Optimizing CNN-LSTM Neural Networks with PSO for Anomalous Query Access Control
         link: "#"
@@ -80,6 +77,25 @@ publications:
         link: "#"
         authors: T.-Y. Kim and S.-B. Cho
         conference: "Expert Systems withApplications, vol. 106, pp. 66-76, 2018. (SCIE)(IF:6.954)"
+
+publications:
+    title: International Conference
+    
+    papers:
+      - title: Particle Swarm Optimization-based CNN-LSTM Networks for Anomalous Query Access Control in RBAC-Administered Model
+        link: "#"
+        authors: T.-Y. Kim and S.-B. Cho
+        conference: "The 14th International Conference on Hybrid Artificial Intelligent Systems (HAIS), 2019"
+
+      - title: Particle swarm optimization-based CNN-LSTM networks for forecasting energy consumption
+        link: "#"
+        authors: T.-Y. Kim and S.-B. Cho
+        conference: "” IEEE Congress on Evolutionary Computation, 2019. In Press"
+
+      - title: Predicting the Household Power Consumption using CNN-LSTM Hybrid Networks
+        link: "#"
+        authors: T.-Y. Kim and S.-B. Cho
+        conference: "The 19th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL), 2018."
         
 experiences:
     - role: Associate Researcher Engineer
