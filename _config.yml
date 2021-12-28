@@ -2,8 +2,8 @@
 
 # Site Settings
 title: TaeYoung CV
-baseurl : '/online-cv' 
-#url: 'http://webjeda.com'
+#baseurl : '/online-cv' 
+url: 'http://webjeda.com'
 #change it according to your repository name
 #disabling since we are using a custom domain
 #baseurl: '/online-cv' 
