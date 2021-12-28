@@ -56,6 +56,7 @@ experiences:
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor.
+        
 skills:
     title: Skills &amp; Proficiency
 
@@ -86,7 +87,8 @@ publications:
         link: "#"
         authors: T.-Y. Kim and S.-B. Cho
         conference: "Expert Systems withApplications, vol. 106, pp. 66-76, 2018. (SCIE)(IF:6.954)"
-    
+        
+publications2:    
     title: International Conference
     papers:
       - title: Particle Swarm Optimization-based CNN-LSTM Networks for Anomalous Query Access Control in RBAC-Administered Model
