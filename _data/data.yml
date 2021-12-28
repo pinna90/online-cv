@@ -25,15 +25,11 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
-    languages:
-      - idiom: English
-        level: 
-
-      - idiom: Korean
-        level: Native
-
     interests:
-      - item: Cooking
+      - item: Deep Learning
+        link:
+        
+      - item: XAI (eXplainable AI)
         link:
       
 education:
