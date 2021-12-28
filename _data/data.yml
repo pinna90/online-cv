@@ -71,7 +71,7 @@ skills:
 publications:
     title: International Journals
     papers:
-      - title: Optimizing CNN-LSTM Neural Networks with PSO for Anomalous Query Access Control
+      - title: Optimizing CNN-LSTM neural networks with PSO for anomalous query access control
         link: "http://sclab.yonsei.ac.kr/publications/Papers/IJ/2021_Neurocomputing_TYK.pdf"
         authors: T.-Y. Kim and S.-B. Cho
         conference: "Neurocomputing, vol. 456, pp. 666-677, 2021. (SCIE)(IF:5.719)"
